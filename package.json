@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "daisyui": "^5.0.12",
+    "jspdf": "^3.0.1",
     "lucide-react": "^0.487.0",
     "next": "15.2.4",
     "qrcode": "^1.5.4",
